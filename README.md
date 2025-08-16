@@ -1,38 +1,21 @@
-# sv
+# CalcBattles!
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+### ![Title Image](static/assets/title.png)
 
-## Creating a project
+### _A fast-paced math-focused quiz game build with Sveltekit and Capacitor_
 
-If you're seeing this, you've probably already done this step. Congrats!
+## What?
 
-```bash
-# create a new project in the current directory
-npx sv create
+Play through different worlds fighting all sorts of unique enemies using the power of calculus!
 
-# create a new project in my-app
-npx sv create my-app
-```
+### Usage
 
-## Developing
+1. Download release APK from releases.
+2. Install to an Android device.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### Building
 
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+1. Clone the repository: `git clone https://github.com/ZombieNW/CalcBattles.git`
+2. Open project directory: `cd calcbattles`
+3. Install dependencies: `npm install`
+4. Start: `npm run dev`
