@@ -1,6 +1,6 @@
 # CalcBattles!
 
-### ![Title Image](static/assets/title.png)
+<img src="static/assets/cb_large.png" width="25%">
 
 ### _A fast-paced math-focused quiz game build with Sveltekit and Capacitor_
 
